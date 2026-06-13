@@ -1,0 +1,56 @@
+# Task 3 - Prompts Used
+
+## Prompt 1: SEO Blog Article
+
+Act as an SEO content writer.
+
+Create a 1000-word SEO-optimized blog article.
+
+Topic: Best Laptop Repair Services in Madurai
+
+Requirements:
+
+* SEO Title
+* Meta Description
+* Introduction
+* H1 Heading
+* H2 Headings
+* H3 Headings
+* FAQ Section
+* Conclusion
+
+Target Audience:
+
+* Students
+* Office Workers
+* Gamers
+
+Make the content informative, engaging, and optimized for local SEO.
+
+---
+
+## Prompt 2: Content Cluster
+
+Create a content cluster for a computer repair business.
+
+Main Topic:
+Laptop Repair Services in Madurai
+
+Generate:
+
+* 10 related blog topics
+* Target keywords
+* Internal linking suggestions
+* Search intent for each topic
+
+---
+
+## Prompt 3: SEO Keywords
+
+Generate 30 SEO keywords for a computer repair business in Madurai.
+
+Include:
+
+* Short-tail keywords
+* Long-tail keywords
+* Local SEO keywords
